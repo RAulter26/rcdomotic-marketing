@@ -4,7 +4,7 @@
 
 **No hay promociones activas esta semana.**
 
-Cuando no existan promociones validadas, el informe semanal debe indicarlo claramente y proponer campañas sugeridas en lugar de promociones reales. No se deben inventar precios, descuentos ni condiciones comerciales.
+El archivo `Inventario.pdf` exportado el 2026-04-16 desde app.rcdomotic.com no contiene precios promocionales, descuentos ni condiciones especiales. Todos los productos aparecen con precio de venta estándar y sin indicación de oferta activa.
 
 ---
 
