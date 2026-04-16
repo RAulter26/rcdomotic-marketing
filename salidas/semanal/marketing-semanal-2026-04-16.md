@@ -1,228 +1,148 @@
 # Marketing semanal RC Domotic
-**Semana del 14 al 20 de abril de 2026**
-*Generado el 16 de abril de 2026*
-
-> **Nota:** Este informe se generó sin promociones activas validadas. La sección de ofertas presenta sugerencias de campaña, no promociones reales. Antes de comunicar cualquier precio o condición comercial, verificar en Appdomotic y actualizar `contexto/promociones-activas.md`.
+**Semana del 16 de abril de 2026**
 
 ---
 
 ## 1. Diez ideas de contenido
 
-### Idea 1 — Reel "Una mañana con domótica: así empieza el día en un hogar inteligente"
-**Formato:** Reel (30-45 seg)
-**Descripción:** Mostrar en secuencia cómo un hogar automatizado responde solo al inicio del día: luces que se encienden gradualmente, el móvil que abre la puerta al salir, una cámara que confirma que todo quedó bien. Sin palabras, solo la escena y música ambiente.
-**Objetivo:** Mostrar el beneficio real de la domótica de forma visual. Alto potencial de engagement orgánico.
-**Servicio asociado:** Domótica ORVIBO / Domótica Sonoff
+**1. Antes/después visual: instalación de cámara exterior** *(CCTV)*
+Foto o vídeo del proceso de instalación de una cámara en fachada. Muestra el antes (sin cámara) y el después (cámara instalada + captura desde el móvil). Formato: carrusel o reel corto.
 
----
+**2. Reel: "Un día en casa con domótica"** *(Domótica ORVIBO)*
+Vídeo sin narración mostrando cómo el hogar reacciona solo: llegan, las luces se encienden, las persianas suben, la música empieza. El sistema como protagonista silencioso.
 
-### Idea 2 — Carrusel "5 cosas que puedes controlar en tu casa desde el móvil"
-**Formato:** Carrusel Instagram / Facebook (6-7 diapositivas)
-**Descripción:** Cada diapositiva muestra un caso de uso concreto: encender luces, ver quién llamó al timbre, abrir la puerta a distancia, revisar las cámaras, activar una escena nocturna. Última diapositiva: "RC Domotic lo instala. Tú solo disfrutas."
-**Objetivo:** Educar de forma visual. Derribar la idea de que la domótica es complicada.
-**Servicio asociado:** Domótica ORVIBO / Sonoff + Videoporteros + CCTV + Cerraduras digitales
+**3. Carrusel educativo: "¿ORVIBO o Sonoff? Cuál es para ti"** *(Domótica)*
+Explicación visual de ambas plataformas: para qué perfil es cada una, qué diferencias prácticas tienen y cómo elegir. Contenido educativo de alto valor para audiencia nueva.
 
----
+**4. Historia de uso real: el problema de las entregas en casa** *(Videoportero + Cerradura digital)*
+Narrativa cotidiana: pedido llega, nadie en casa, el repartidor se va. Contraste con la solución instalada. Post de texto o carrusel con ilustración del escenario.
 
-### Idea 3 — Post "¿Sabes quién entró a tu casa mientras no estabas?"
-**Formato:** Imagen + pie de foto
-**Descripción:** Hablar de cómo las cerraduras digitales y los videoporteros permiten saber exactamente quién entró, a qué hora y con qué método. Incluir el registro de accesos como beneficio diferenciador.
-**Objetivo:** Generar conciencia sobre control de acceso. Contenido con ángulo de seguridad y control.
-**Servicio asociado:** Cerraduras digitales + Videoporteros
+**5. Post de engagement: encuesta sin venta** *(Cerraduras digitales)*
+"¿Con qué frecuencia sales de casa dudando si cerraste con llave?" — Respuestas: Siempre / A veces / Nunca. Activa audiencia sin vender directamente.
 
----
+**6. Reel de instalación: cerradura digital en 60 segundos** *(Cerraduras digitales)*
+Time-lapse o vídeo acelerado del proceso de instalación de una cerradura. Genera confianza en la facilidad del proceso y la profesionalidad del equipo.
 
-### Idea 4 — Story interactiva "¿Qué harías si pudieras abrir tu puerta desde el móvil?"
-**Formato:** Stories con encuesta o pregunta abierta
-**Descripción:** Plantear escenarios cotidianos: el repartidor llegó, un familiar olvidó la llave, estás de viaje. Pregunta abierta para que los seguidores respondan. Cerrar con cómo RC Domotic lo resuelve.
-**Objetivo:** Engagement y captación de intención de compra a partir de situaciones reales.
-**Servicio asociado:** Cerraduras digitales + Videoporteros
+**7. Carrusel: "5 cosas que puedes controlar desde el móvil en tu casa"** *(General / captación)*
+Iluminación, cámaras, puerta, timbre, temperatura. Contenido divulgativo para personas que aún no conocen la domótica. Cada slide, una cosa.
 
----
+**8. Post estacional: "Tu terraza, lista para el verano"** *(Sistemas audiovisuales)*
+Con la primavera como contexto, mostrar una terraza equipada con proyector exterior o barra de sonido. Contenido aspiracional enfocado en el beneficio de disfrutar el espacio.
 
-### Idea 5 — Vídeo demostrativo "Así funciona un videoportero: lo ves, hablas y abres desde el móvil"
-**Formato:** Vídeo corto (20-30 seg), grabación real o screencast
-**Descripción:** Demostración real del flujo: alguien llama al timbre → el teléfono recibe la notificación → se ve la imagen → se habla → se abre la puerta. Sin locución, solo el proceso en pantalla.
-**Objetivo:** Demostración directa del producto. Muy efectivo para audiencias en fase de consideración.
-**Servicio asociado:** Videoporteros
+**9. Post combo seguridad: tres servicios, una sola decisión** *(CCTV + Cerradura + Videoportero)*
+Post que presenta el conjunto de seguridad completo: qué incluye, cómo se complementan los tres y qué problema conjunto resuelven. Una sola CTA al final.
 
----
-
-### Idea 6 — Post aspiracional "El truco de los hoteles para hacer que una habitación se sienta perfecta"
-**Formato:** Imagen + pie de foto
-**Descripción:** Los hoteles de lujo ajustan automáticamente luces, temperatura y persianas según la hora del día. Ese mismo control existe para tu hogar. Conectar con domótica como habilitador de esa experiencia.
-**Objetivo:** Posicionamiento aspiracional. Vincular RC Domotic con confort de alto estándar.
-**Servicio asociado:** Domótica ORVIBO
-
----
-
-### Idea 7 — Carrusel "CCTV en casa: qué ven tus cámaras mientras no estás"
-**Formato:** Carrusel (5 diapositivas)
-**Descripción:** Mostrar los momentos en los que una cámara CCTV resulta clave: el repartidor que dejó un paquete, el vecino que asomó, el momento en que llegaron los niños del colegio. Cada diapositiva = un escenario cotidiano real.
-**Objetivo:** Hacer tangible el valor del CCTV con situaciones identificables.
-**Servicio asociado:** CCTV
-
----
-
-### Idea 8 — Reel "Escena de cine en casa: de la sala normal a sala de proyección"
-**Formato:** Reel (30-40 seg)
-**Descripción:** Mostrar la transformación: pantalla se despliega, luces bajan, sonido envolvente. Una escena de domótica + audiovisual integrados. Puede incluirse el momento de activación desde el móvil.
-**Objetivo:** Contenido muy visual y aspiracional. Muestra la integración entre servicios.
-**Servicio asociado:** Sistemas audiovisuales + Domótica ORVIBO
-
----
-
-### Idea 9 — Testimonio de cliente
-**Formato:** Imagen con cita textual o vídeo corto (15-20 seg)
-**Descripción:** Un cliente real cuenta en sus propias palabras qué cambió en su día a día desde que instaló alguno de los sistemas de RC Domotic. Mantener formato natural, sin guión forzado.
-**Objetivo:** Prueba social. Uno de los formatos con mayor tasa de conversión.
-**Servicio asociado:** Cualquier servicio recientemente instalado
-
----
-
-### Idea 10 — Email a clientes existentes: "¿Ya usas todo lo que instalamos?"
-**Formato:** Email o mensaje de WhatsApp a base de clientes activos
-**Descripción:** Un mensaje breve recordando alguna funcionalidad avanzada del sistema instalado que quizás no estén usando. Cerrar con invitación a contactar si quieren ampliar o necesitan soporte.
-**Objetivo:** Retención y activación de clientes inactivos. Base para upsell futuro.
-**Servicio asociado:** Soporte y diagnóstico
+**10. FAQ en story o post: "¿Funciona con Alexa y Google Home?"** *(Domótica Sonoff)*
+Responde la duda más común sobre compatibilidad de dispositivos Sonoff con asistentes de voz. Termina con invitación a consultar sin compromiso.
 
 ---
 
 ## 2. Cinco copys promocionales
 
-> Los copys son borradores. Revisar antes de publicar. No incluyen precios ni condiciones comerciales porque no hay promociones activas esta semana.
+> Todos verificados contra `mensajes-usados.md`. Ninguno replica frases o estructuras registradas.
 
-### Copy 1 — Domótica (captación general)
-> **Controla tu casa aunque no estés en ella.**
-> Luces, cámaras, puertas y escenas, todo desde el móvil.
-> RC Domotic lo instala y lo configura para ti.
-> 📱 Escríbenos y te contamos cómo.
+**Copy 1 — CCTV**
+> "Cada vez que salgas de casa, tus cámaras se quedan. Monitoreo en tiempo real y grabación automática cuando detectan movimiento. 📷 Pídenos presupuesto."
 
----
+**Copy 2 — Cerraduras digitales**
+> "La llave ya no vive en tu bolsillo. Ahora vive en tu móvil. Acceso por huella, PIN o teléfono — y tú decides quién puede entrar y cuándo."
 
-### Copy 2 — CCTV
-> **¿Qué pasó en tu casa mientras no estabas?**
-> Con un sistema CCTV instalado por RC Domotic, lo ves en tiempo real o revisas la grabación cuando quieras.
-> 📷 Pide tu presupuesto sin compromiso.
+**Copy 3 — Videoportero**
+> "El timbre sonó. Tú estás en el trabajo. Lo ves, hablas y abres el portal desde el teléfono. Así funciona un videoportero bien instalado."
 
----
+**Copy 4 — Domótica Sonoff**
+> "Empezar no cuesta lo que crees. Un interruptor inteligente, un enchufe conectado, y ya tienes un hogar que responde cuando tú quieres. 🔧 Escríbenos y te contamos cómo."
 
-### Copy 3 — Cerraduras digitales + Videoporteros
-> **Abre tu puerta sin llave. Desde cualquier lugar.**
-> Cerradura digital + videoportero: sabe quién llama, habla con él y decide si entra.
-> Sin llave. Sin incertidumbre.
-> 🔑 Pregúntanos por la instalación.
-
----
-
-### Copy 4 — Sistemas audiovisuales
-> **Tu sala de cine privada, instalada en casa.**
-> Pantalla, proyector, sonido envolvente y escenas automáticas.
-> RC Domotic diseña e instala el sistema que mejor se adapta a tu espacio.
-> 🎬 Cuéntanos cómo es tu sala y te proponemos algo.
-
----
-
-### Copy 5 — Soporte (para clientes existentes)
-> **¿Todo funciona como el primer día?**
-> Si tienes alguna duda, algo que no responde o quieres ampliar tu instalación, estamos aquí.
-> 🔧 Escríbenos y lo miramos juntos.
+**Copy 5 — Sistemas audiovisuales**
+> "La terraza tiene todo para ser tu mejor sala. Solo le faltan el sonido y la pantalla correctos. Nosotros lo instalamos antes de que llegue el calor. 🎬"
 
 ---
 
 ## 3. Tres ofertas destacadas
 
-> ⚠️ **No hay promociones activas esta semana.** Las siguientes son sugerencias de campaña, no ofertas reales. Para comunicar cualquier precio o condición, primero verificar en Appdomotic y actualizar `contexto/promociones-activas.md`.
+> ⚠️ **No hay promociones activas validadas esta semana.** El archivo `promociones-activas.md` no registra ninguna oferta confirmada. A continuación se proponen tres campañas sugeridas que pueden activarse previo acuerdo comercial con el equipo de RC Domotic.
 
----
+**Campaña sugerida 1 — Combo Seguridad Primavera**
+- **Incluye:** Instalación de cámara exterior + videoportero con acceso desde móvil
+- **Argumento:** Inicio de temporada de mayor ausencia del hogar (salidas, viajes cortos, vacaciones próximas)
+- **Formato sugerido:** Paquete combinado con precio único a confirmar
+- **CTA propuesto:** "Protege tu casa antes de irte de vacaciones. Pide presupuesto de tu combo de seguridad."
 
-### Sugerencia de campaña 1 — Acceso inteligente combinado
-**Concepto:** Ofrecer como paquete la instalación conjunta de cerradura digital + videoportero, resaltando el ahorro de contratar los dos servicios a la vez frente a hacerlo por separado.
-**Por qué tiene sentido:** Son servicios naturalmente complementarios y la propuesta combinada eleva el ticket medio.
-**Pendiente para activar:** Confirmar precio real del paquete con el equipo comercial.
+**Campaña sugerida 2 — Primer Paso Sonoff**
+- **Incluye:** Diagnóstico del hogar + instalación básica de 2-3 dispositivos Sonoff
+- **Argumento:** Precio de entrada bajo para captar clientes nuevos que quieren probar la domótica
+- **Formato sugerido:** Servicio de inicio con presupuesto cerrado
+- **CTA propuesto:** "Empieza a automatizar con lo esencial. Sin grandes inversiones, sin complicaciones."
 
----
+**Campaña sugerida 3 — Terraza Lista para el Verano**
+- **Incluye:** Instalación de audio exterior (multiroom) o proyector en terraza
+- **Argumento:** Estacionalidad de primavera — las personas empiezan a usar y equipar sus terrazas
+- **Formato sugerido:** Consulta + presupuesto personalizado según espacio
+- **CTA propuesto:** "Tu terraza puede sonar increíble este verano. Hablemos antes de que llegue el calor."
 
-### Sugerencia de campaña 2 — Diagnóstico de sistema sin compromiso
-**Concepto:** Ofrecer una revisión gratuita o de bajo coste para clientes que tienen instalaciones previas (de RC Domotic u otras marcas) y quieren saber si están funcionando bien o si se puede mejorar.
-**Por qué tiene sentido:** Genera confianza, activa el servicio de soporte y abre conversaciones de upsell.
-**Pendiente para activar:** Definir si es gratuito, qué incluye exactamente y disponibilidad de agenda.
-
----
-
-### Sugerencia de campaña 3 — Paquete de entrada domótica Sonoff
-**Concepto:** Proponer un pack básico de domótica Sonoff para quienes quieren empezar sin una gran inversión. Pocos dispositivos, instalación incluida, resultado inmediato.
-**Por qué tiene sentido:** Baja la barrera de entrada. Convierte curiosos en clientes. Fácil de comunicar en redes.
-**Pendiente para activar:** Definir qué incluye el pack y su precio real a partir del catálogo de Appdomotic.
+> Estas campañas son propuestas estratégicas. **No publicar precios ni condiciones hasta confirmar con el equipo comercial.**
 
 ---
 
 ## 4. Revisión de repeticiones detectadas
 
-Tras revisar `contexto/mensajes-usados.md`, se identifican los siguientes elementos a evitar esta semana:
+Se han comparado todos los copys e ideas propuestos contra los mensajes registrados en `mensajes-usados.md`.
 
-### Frases y estructuras a no repetir
+| Elemento propuesto | Mensaje similar en archivo | Nivel de riesgo | Acción tomada |
+|---|---|---|---|
+| Copy 1 (CCTV) | Msg #8: "Vigila tu hogar en tiempo real desde el teléfono." | Bajo | Diferenciado con contexto de salida del hogar y grabación por movimiento |
+| Copy 2 (Cerraduras) | Msg #9: "Entra a tu casa sin llave. Solo con el móvil o la huella." | Bajo | Reescrito desde el ángulo de "dónde vive la llave ahora" |
+| Copy 3 (Videoportero) | Msg #12: "Sabe quién llama a tu puerta aunque estés a kilómetros." | Bajo | Especificado con escenario concreto (trabajo + apertura de portal) |
+| Ideas de contenido | Sin coincidencias directas | Ninguno | — |
+| Campañas sugeridas | Sin precedente registrado | Ninguno | — |
 
-| Elemento | Motivo |
-|---|---|
-| "Tu casa trabaja para ti" como copy principal | Registrado como saturado en la base de referencia. |
-| "Instalación en un día." sin contexto adicional | Frase genérica ya registrada. Usar solo con datos concretos. |
-| "Sin cables. Sin complicaciones." | En la base de referencia. Evitar como apertura directa. |
-| "¿Cansado de...?" como apertura | Estructura muy usada. Buscar ángulo diferente. |
-| "Imagina llegar a casa y que..." | Apertura registrada. Reemplazar por escenario más concreto. |
-| "Controla tu hogar desde..." como titular | En la base. Si se usa, añadir contexto específico. |
-| Estructura: pregunta problema → solución → CTA | Muy recurrente. Variar con estructura descriptiva o demostrativa. |
+**Frases de apertura prohibidas:** ninguna de las propuestas usa "¿Cansado de...?", "Imagina...", "Tu casa trabaja para ti" ni ningún otro patrón vetado.
 
-### Qué hacen los copys de esta semana de diferente
-- Abren con escenario real o pregunta de situación concreta, no con pregunta de problema genérico.
-- Se centra en servicios específicos (CCTV, cerraduras, videoporteros) en lugar de hablar de "domótica" en general.
-- El tono es descriptivo y demostrativo, no solo aspiracional.
+**Estructuras de copy:** se han evitado las tres estructuras marcadas como ya usadas. Los copys propuestos utilizan estructura de **afirmación de realidad nueva → cómo funciona → CTA**, no registrada previamente.
+
+**Recomendación:** Revisar el copy 1 (CCTV) antes de publicar para asegurar diferenciación visual suficiente respecto a cualquier contenido anterior de este servicio.
 
 ---
 
-## 5. Enfoque recomendado por servicio
+## 5. Enfoque recomendado por servicio esta semana
 
-### Servicios con mayor protagonismo esta semana
+| Servicio | Enfoque para esta semana | Prioridad |
+|---|---|---|
+| **CCTV** | Contenido visual antes/después + copy de salida del hogar | Alta |
+| **Cerraduras digitales** | Vídeo instalación + copy acceso sin llave reformulado | Alta |
+| **Videoportero** | Post combo con cerradura, escenario de entrega en casa | Media-Alta |
+| **Domótica Sonoff** | FAQ compatibilidad + copy de primer paso accesible | Media |
+| **Domótica ORVIBO** | Reel "un día en casa" como contenido aspiracional | Media |
+| **Sistemas audiovisuales** | Post estacional terraza, enfoque verano próximo | Media-Baja |
+| **Soporte y diagnóstico** | No comunicar en captación esta semana | — |
 
-**Cerraduras digitales + Videoporteros** — Foco principal
-Razón: Son servicios que generan contenido visual muy claro y con un beneficio inmediatamente comprensible. La combinación de ambos en un mismo mensaje de "control de acceso" es potente y diferenciadora. Hay ideas de contenido directas y ejecutables esta semana para estos dos servicios.
-
-**CCTV** — Foco secundario
-Razón: Contenido visual directo, escenarios cotidianos identificables. Buen engagement en formato carrusel. Servicio con alta intención de compra cuando el contenido es concreto.
-
-**Domótica ORVIBO / Sonoff** — Foco de captación y educación
-Razón: Servicio central de RC Domotic. Esta semana se enfoca en demostrar casos de uso cotidianos en lugar de hablar del sistema en abstracto.
-
----
-
-### Servicios con comunicación limitada esta semana
-
-| Servicio | Motivo |
-|---|---|
-| Sistemas audiovisuales | Incluir 1 pieza aspiracional (Idea 8), pero no como foco principal. |
-| Soporte y diagnóstico | Solo hacia clientes existentes (email / WhatsApp). No en redes públicas. |
+**Combinaciones recomendadas para esta semana:**
+- CCTV + Cerradura digital → post combo seguridad completa
+- Videoportero + Cerradura → historia de uso real (entregas en casa)
+- Sonoff → contenido educativo para audiencia nueva
 
 ---
 
 ## 6. Recomendación final de prioridad semanal
 
-| Prioridad | Acción | Canal | Momento sugerido |
-|---|---|---|---|
-| 1 | Reel domótica: "una mañana con el hogar inteligente" (Idea 1) | Instagram / TikTok | Inicio de semana (lunes o martes) |
-| 2 | Carrusel CCTV: escenarios cotidianos (Idea 7) | Instagram / Facebook | Miércoles |
-| 3 | Post cerraduras + videoporteros: control de acceso (Idea 3) | Instagram / Facebook | Jueves |
-| 4 | Story interactiva: "¿qué harías si pudieras abrir desde el móvil?" (Idea 4) | Stories | Miércoles o jueves |
-| 5 | Email a clientes existentes: ¿ya usas todo lo que instalamos? (Idea 10) | Email / WhatsApp | Martes o miércoles |
-| 6 | Reel audiovisual: escena de cine en casa (Idea 8) | Instagram / TikTok | Fin de semana |
+**Eje estratégico de la semana: seguridad del hogar con contexto de primavera.**
 
-**Criterio de priorización:**
-- Las ideas 1, 7 y 3 son las más ejecutables, visuales y representativas de los servicios principales.
-- La idea 4 (story) requiere poca producción y genera conversaciones directas.
-- La idea 10 (email/WhatsApp) activa clientes que ya confían en la marca, con coste de producción mínimo.
-- La idea 8 (audiovisual) cierra la semana con contenido aspiracional y de mayor producción.
+El inicio de abril es un momento natural para hablar de ausencias del hogar: salidas más frecuentes, planificación de viajes de primavera y mayor tiempo fuera. Esto hace que los servicios de CCTV, cerraduras digitales y videoportero tengan una justificación cotidiana sin necesidad de inventar contexto.
+
+**Plan de publicaciones recomendado (4-5 piezas esta semana):**
+
+1. **Lunes o martes** — Post combo seguridad (CCTV + Cerradura + Videoportero): el mensaje más completo y de mayor impacto
+2. **Miércoles** — Reel o post CCTV: antes/después o copy de salida del hogar
+3. **Jueves** — Copy cerraduras digitales: acceso reformulado desde ángulo nuevo
+4. **Viernes o fin de semana** — Contenido domótica Sonoff (FAQ o copy accesible): para ampliar audiencia nueva
+5. **Opcional** — Post terraza audiovisual: si hay recurso visual disponible
+
+**No activar campañas de precio** hasta confirmar condiciones con el equipo comercial.
+
+**Prioridad absoluta:** publicar con recurso visual propio (foto o vídeo real de instalación) siempre que sea posible. El contenido genérico tiene menor rendimiento que el contenido de obra real.
 
 ---
 
 ## Resumen ejecutivo
 
-Esta semana no hay promociones activas validadas, por lo que el enfoque es de captación por contenido y no por oferta directa. Los servicios con mayor protagonismo son cerraduras digitales, videoporteros y CCTV, por su facilidad para generar contenido visual concreto e identificable. La domótica ORVIBO/Sonoff se comunica desde casos de uso cotidianos, alejándose del discurso técnico. Se proponen tres sugerencias de campaña que el equipo comercial puede activar una vez validadas en Appdomotic. Los copys de esta semana evitan las estructuras ya registradas en mensajes-usados.md. La acción de menor coste y mayor impacto inmediato es el email/WhatsApp a clientes existentes invitándoles a usar funciones que quizás no aprovechan.
+Semana del 16 de abril de 2026. No hay promociones activas validadas; se proponen 3 campañas sugeridas pendientes de confirmación comercial. El eje estratégico es la seguridad del hogar, aprovechando el contexto estacional de primavera y mayor ausencia del hogar. Se generan 10 ideas de contenido diversas, 5 copys diferenciados y verificados contra el historial de mensajes. Ninguno replica frases o estructuras ya registradas. La prioridad semanal es publicar 4-5 piezas con foco en CCTV, cerraduras, videoportero y domótica Sonoff como palanca de captación. Los sistemas audiovisuales quedan como contenido de apoyo estacional. No publicar precios ni condiciones de campaña sin validación previa del equipo comercial.
