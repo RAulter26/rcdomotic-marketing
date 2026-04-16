@@ -8,6 +8,7 @@ Este repositorio centraliza los recursos de planificación y ejecución de marke
 
 ```
 rcdomotic-marketing/
+├── exports/                     # Fuentes reales del catálogo (Inventario.pdf, CSV, XLSX, etc.)
 ├── contexto/                    # Archivos de referencia permanente
 │   ├── servicios.md             # Catálogo real de servicios de RC Domotic
 │   ├── catalogo-productos.md    # Productos reales con precio y disponibilidad
@@ -16,6 +17,8 @@ rcdomotic-marketing/
 │   ├── tono-de-marca.md         # Voz, tono e identidad comunicacional
 │   └── mensajes-usados.md       # Registro de copys y frases ya utilizados
 │
+├── instrucciones-agente.md      # Flujo obligatorio para el agente en cada ejecución
+│
 └── salidas/
     └── semanal/                 # Informes de planificación semanal generados
         └── marketing-semanal-YYYY-MM-DD.md
@@ -23,91 +26,70 @@ rcdomotic-marketing/
 
 ---
 
+## Flujo obligatorio del agente
+
+El agente debe leer `instrucciones-agente.md` antes de ejecutar cualquier tarea semanal. El orden es:
+
+```
+PASO 1 — Buscar fuente real del catálogo
+         Prioridad: exports/ → contexto/ → raíz del repositorio
+         Si no hay fuente → DETENER y avisar al usuario
+                  ↓
+PASO 2 — Actualizar contexto/catalogo-productos.md
+         ID, nombre, categoría y precio exactos de la fuente
+         Precio $0 → "Por validar". Stock 0 no descarta el producto.
+                  ↓
+PASO 3 — Actualizar contexto/promociones-activas.md
+         Si no hay promos reales → escribir exactamente:
+         "No hay promociones activas esta semana."
+                  ↓
+PASO 4 — Generar informe semanal
+         Solo con productos y datos validados en los pasos anteriores
+                  ↓
+PASO 5 — Revisión humana antes de publicar
+         El informe es una propuesta. No publicar sin revisión.
+```
+
+---
+
+## Carpeta `exports/`
+
+Aquí deben depositarse las exportaciones reales del catálogo antes de cada ejecución semanal.
+
+| Formato aceptado | Ejemplo |
+|---|---|
+| PDF exportado desde Appdomotic | `Inventario.pdf` |
+| CSV | `catalogo-YYYY-MM-DD.csv` |
+| Excel | `catalogo-YYYY-MM-DD.xlsx` |
+| JSON | `catalogo-YYYY-MM-DD.json` |
+
+> Usar siempre la exportación más reciente. Incluir la fecha en el nombre del archivo cuando sea posible.
+
+---
+
 ## Carpeta `contexto/`
 
-Contiene los archivos que alimentan cada informe semanal. Deben mantenerse actualizados por el equipo de RC Domotic.
+Contiene los archivos que alimentan cada informe semanal. Deben mantenerse actualizados.
 
 | Archivo | Descripción | Quién lo actualiza |
 |---|---|---|
 | `servicios.md` | Catálogo de servicios reales que ofrece RC Domotic | Equipo técnico / comercial |
-| `catalogo-productos.md` | Productos individuales con precio real, disponibilidad y si aplican para promo | Comercial (fuente: Appdomotic) |
+| `catalogo-productos.md` | Productos individuales con precio real — actualizado por el agente desde la fuente | Agente (fuente: exports/) |
 | `enfoque-por-servicio.md` | Ángulo de comunicación y beneficios de cada servicio | Marketing |
-| `promociones-activas.md` | Promociones vigentes con precio, condiciones y vigencia reales | Comercial (fuente: Appdomotic) |
+| `promociones-activas.md` | Promociones vigentes — actualizado por el agente | Agente (fuente: exports/) |
 | `tono-de-marca.md` | Guía de voz, tono y estilo de comunicación | Marketing |
 | `mensajes-usados.md` | Registro de copys y frases publicados para evitar repetición | Marketing |
 
 ---
 
-## Carpeta `salidas/semanal/`
+## Regla crítica: sin datos inventados
 
-Contiene los informes de planificación semanal generados. Cada archivo sigue el formato:
+> El agente nunca debe inventar productos, precios, promociones, descuentos ni beneficios no verificables.
 
-```
-marketing-semanal-YYYY-MM-DD.md
-```
-
-Cada informe incluye:
-- Ideas de contenido nuevas
-- Copys promocionales
-- Ofertas destacadas (o sugerencias si no hay promos activas)
-- Revisión de mensajes repetidos
-- Enfoque recomendado por servicio
-- Prioridad semanal de acciones
-
----
-
-## Regla crítica: `promociones-activas.md`
-
-> **Este archivo no debe inventarse ni estimarse.**
-
-Solo debe contener promociones confirmadas con:
-- Precio o condición real
-- Vigencia exacta
-- Fuente validada (Appdomotic u acuerdo comercial directo)
-
-Si no hay promociones activas, el archivo debe indicarlo claramente. El informe semanal tomará esa información y propondrá sugerencias de campaña en lugar de promociones reales.
-
----
-
-## Flujo de trabajo recomendado
-
-```
-1. Validar productos y promociones reales en Appdomotic
-         ↓
-2. Actualizar contexto/promociones-activas.md con datos reales
-         ↓
-3. Revisar y actualizar los demás archivos de contexto si hubo cambios
-         ↓
-4. Generar el informe semanal (salidas/semanal/marketing-semanal-YYYY-MM-DD.md)
-         ↓
-5. Revisar el informe antes de ejecutar cualquier pieza de contenido
-```
-
----
-
-## Flujo real de promociones
-
-Para que el informe semanal contenga promociones reales y no datos inventados, seguir siempre este orden:
-
-```
-Paso 1 — Actualizar contexto/catalogo-productos.md
-         Revisar Appdomotic y registrar los productos disponibles
-         con precio real, disponibilidad y si aplican para promoción.
-                  ↓
-Paso 2 — Actualizar contexto/promociones-activas.md
-         Solo con base en los productos registrados en el catálogo.
-         No añadir precios ni condiciones que no estén confirmados.
-                  ↓
-Paso 3 — Generar el informe semanal
-         Con la información validada de los dos archivos anteriores.
-                  ↓
-Paso 4 — Revisión humana antes de publicar
-         El informe es una propuesta. Revisar antes de ejecutar.
-```
-
-> Si no hay datos reales suficientes en el catálogo o en promociones-activas.md, el informe debe indicar:
-> **"No hay promociones activas esta semana."**
-> y proponer sugerencias de campaña pendientes de validar, sin inventar precios ni condiciones.
+- Si un precio es $0 en la fuente → `Por validar`
+- Si no hay promociones reales → `No hay promociones activas esta semana.`
+- Si no hay fuente real → detener y avisar al usuario
+- Stock en 0 no descarta ningún producto
 
 ---
 
@@ -116,3 +98,4 @@ Paso 4 — Revisión humana antes de publicar
 - Los informes semanales son propuestas de planificación, no piezas listas para publicar.
 - Toda información de precio, promoción o condición comercial debe verificarse antes de comunicarla al cliente.
 - Los copys del informe son borradores. Deben revisarse antes de publicarse.
+- Ver `instrucciones-agente.md` para el detalle completo del flujo.
