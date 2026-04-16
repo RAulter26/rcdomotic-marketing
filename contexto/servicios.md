@@ -1,92 +1,71 @@
 # Servicios RC Domotic
 
 ## Descripción general
-RC Domotic es una empresa especializada en domótica e integración de sistemas inteligentes para hogares y empresas. Ofrecemos soluciones a medida para automatizar, controlar y optimizar el hogar o la oficina desde cualquier lugar y dispositivo.
+RC Domotic es una empresa especializada en domótica, seguridad y sistemas audiovisuales para hogares y negocios. Instalamos, configuramos y damos soporte a soluciones inteligentes que hacen la vida más cómoda, segura y eficiente.
 
 ---
 
 ## Catálogo de servicios
 
-### 1. Automatización del hogar (Home Automation)
-Control centralizado de todos los sistemas del hogar mediante una sola app o panel táctil. Incluye integración de dispositivos de distintas marcas en un único ecosistema.
+### 1. Domótica ORVIBO
+Instalación y configuración de sistemas de automatización del hogar basados en la plataforma ORVIBO. Permite controlar iluminación, enchufes, sensores y escenas desde una sola app.
 
-- Escenas personalizadas (llegada, salida, noche, cine, etc.)
+- Control centralizado desde smartphone o tablet
 - Automatizaciones por horario, sensor o geolocalización
-- Compatible con Google Home, Amazon Alexa y Apple HomeKit
+- Escenas personalizadas (llegada, salida, noche, cine, etc.)
+- Compatible con asistentes de voz
 
-### 2. Iluminación inteligente
-Instalación y configuración de sistemas de iluminación controlados por voz, app o sensor.
+### 2. Domótica Sonoff
+Instalación y configuración de dispositivos inteligentes de la marca Sonoff. Solución accesible y modular para automatizar el hogar paso a paso.
 
-- Luces regulables (dimmer) y cambio de temperatura de color
-- Tiras LED inteligentes para ambientación
-- Sensores de presencia para encendido/apagado automático
-- Ahorro energético de hasta 40%
+- Interruptores, enchufes y relés inteligentes
+- Control por app eWeLink y compatible con Google Home y Alexa
+- Integración con sensores de temperatura, movimiento y apertura
+- Fácil expansión del sistema con nuevos dispositivos
 
-### 3. Sistemas de seguridad inteligente
-Soluciones de vigilancia y control de acceso integradas con el ecosistema domótico.
+### 3. CCTV
+Instalación de sistemas de videovigilancia para el hogar o el negocio. Monitoreo en tiempo real desde cualquier dispositivo.
 
-- Cámaras IP con visión nocturna y detección de movimiento
-- Videoporteros y cerraduras electrónicas
-- Alarmas con notificación en tiempo real al móvil
-- Integración con sistemas de alarma existentes
+- Cámaras interiores y exteriores con visión nocturna
+- Grabación continua o por detección de movimiento
+- Acceso remoto desde móvil o tablet
+- Almacenamiento local (NVR/DVR) o en nube
 
-### 4. Control de clima y HVAC
-Gestión inteligente de la climatización para mayor confort y ahorro energético.
+### 4. Sistemas audiovisuales
+Diseño e instalación de sistemas de audio y vídeo para el hogar, terraza o sala de cine privada.
 
-- Termostatos inteligentes (Nest, Ecobee, Heatit, etc.)
-- Control de aire acondicionado por infrarrojos
-- Automatización por temperatura exterior o interior
-- Integración con persianas para optimización térmica
+- Home theater y salas de cine en casa
+- Audio ambiental para varias zonas (multiroom)
+- Instalación de pantallas, proyectores y barras de sonido
+- Integración con sistemas domóticos para escenas AV automatizadas
 
-### 5. Persianas, toldos y cortinas motorizadas
-Motorización e integración de elementos de oscurecimiento y protección solar.
+### 5. Cerraduras digitales
+Instalación de cerraduras electrónicas para acceso sin llave con mayor control y seguridad.
 
-- Motor para persianas enrollables, venecianas y cortinas
-- Control por app, voz o botón pulsador
-- Automatización por luz solar, viento o lluvia (sensor exterior)
+- Acceso por PIN, tarjeta, huella dactilar o smartphone
+- Registro de entradas y salidas
+- Apertura remota desde la app
+- Compatible con videoporteros y sistemas domóticos
 
-### 6. Control de audio y vídeo (AV)
-Soluciones de entretenimiento integradas en el ecosistema del hogar.
+### 6. Videoporteros
+Instalación de videoporteros con visión y comunicación desde cualquier lugar a través del móvil.
 
-- Sistemas multiroom de audio (Sonos, Denon HEOS, etc.)
-- Pantallas y proyectores integrados con escenas de cine
-- Control centralizado de TV, amplificadores y streaming
+- Imagen en tiempo real al smartphone al detectar visita
+- Apertura remota de puerta o portal
+- Almacenamiento de capturas o vídeo de visitas
+- Integración con cerraduras digitales y domótica
 
-### 7. Gestión energética
-Monitoreo y optimización del consumo eléctrico del hogar o negocio.
+### 7. Soporte y diagnóstico
+Servicio técnico para instalaciones existentes: resolución de problemas, actualizaciones y mantenimiento preventivo.
 
-- Enchufes y regletas inteligentes con medición de consumo
-- Integración con instalaciones fotovoltaicas (solar)
-- Alertas de consumo excesivo y automatizaciones de ahorro
-- Paneles de control de consumo en tiempo real
-
-### 8. Redes y conectividad (infraestructura)
-Base tecnológica necesaria para que todos los sistemas domóticos funcionen correctamente.
-
-- Instalación de redes Wi-Fi de alto rendimiento (mesh)
-- Cableado estructurado y paneles de parcheo
-- Configuración de VLANs para separar dispositivos IoT
-- Asesoría sobre protocolos: Zigbee, Z-Wave, KNX, Matter
-
-### 9. Mantenimiento y soporte
-Servicio postventa para garantizar el funcionamiento óptimo de todos los sistemas.
-
-- Revisiones periódicas presenciales o en remoto
-- Actualizaciones de firmware y configuraciones
-- Soporte técnico prioritario por WhatsApp o videollamada
-- Contratos de mantenimiento anual
-
-### 10. Proyectos para empresas y espacios comerciales
-Adaptación de soluciones domóticas a oficinas, hoteles, locales y edificios.
-
-- Sistemas de gestión centralizada para propiedades grandes
-- Automatización de iluminación y clima en zonas comunes
-- Control de accesos y seguridad corporativa
-- Consultoría e ingeniería de proyectos
+- Diagnóstico presencial o remoto de fallos en el sistema
+- Actualizaciones de firmware y reconfiguración
+- Soporte técnico por WhatsApp, videollamada o visita
+- Contratos de mantenimiento disponibles
 
 ---
 
-## Zonas de servicio
-- Cobertura principal: [completar con zona real del negocio]
-- Instalación a domicilio con cita previa
-- Soporte remoto disponible para todo el territorio nacional
+## Notas
+- Todos los servicios incluyen asesoría previa sin compromiso.
+- Los proyectos se adaptan a viviendas, locales comerciales y oficinas.
+- Zona de cobertura: [completar con zona real del negocio].

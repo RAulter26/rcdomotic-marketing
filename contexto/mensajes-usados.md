@@ -1,68 +1,69 @@
 # Mensajes usados — RC Domotic
 
 ## Propósito
-Registro de copys, frases y estructuras de mensajes ya publicados o enviados. Se usa para evitar repeticiones en nuevas piezas de contenido.
+Este archivo es la referencia de frases, estructuras y copys ya utilizados o que sirven como base de partida. Su función es evitar repeticiones en nuevas piezas de contenido y mantener coherencia en la comunicación.
+
+> **Nota importante:** Este archivo parte de una base inicial de referencia, no de un historial real fechado. A medida que se publiquen piezas reales, deben añadirse aquí para mantener el registro actualizado.
 
 ---
 
-## Copys publicados en redes sociales
+## Base de mensajes de referencia
 
-### Enero 2026
-1. "¿Cansado de levantarte a apagar las luces? Automatiza tu hogar y olvídate para siempre."
-2. "Con RC Domotic, tu casa se adapta a ti, no al revés."
-3. "Empieza el año con una casa más inteligente. Pide tu asesoría gratuita."
-4. "Controla la calefacción desde el trabajo. Llega a casa siempre a la temperatura perfecta."
-5. "La domótica ya no es solo para casas de lujo. Descubre cómo empezar desde menos de 100 €."
+Los siguientes mensajes representan frases y estructuras típicas de RC Domotic. Están registrados para evitar su repetición directa en nuevas piezas.
 
-### Febrero 2026
-6. "San Valentín en casa: crea el ambiente perfecto con solo un toque en tu móvil."
-7. "¿Sabes cuánta energía consumes mientras duermes? Te sorprenderías."
-8. "Persianas que se abren solas al amanecer. Bienvenido al hogar del futuro."
-9. "Tu hogar te espera. Automatiza y ahorra hasta un 40% en tu factura de luz."
-10. "Instalación en un día. Resultados para siempre."
+### Mensajes sobre domótica
+1. "Con RC Domotic, tu casa se adapta a ti, no al revés."
+2. "Controla tu hogar desde el móvil, desde donde estés."
+3. "Automatiza y olvídate. Tu casa trabaja para ti."
+4. "La domótica ya no es solo para casas de lujo."
+5. "Instalado y funcionando en el mismo día."
 
-### Marzo 2026
-11. "Llega la primavera: renueva tu hogar con luz inteligente."
-12. "¿Tu casa sabe que te has ido? La nuestra sí." 
-13. "Seguridad que nunca duerme. Cámaras y alarmas conectadas a tu móvil."
-14. "Sin cables. Sin complicaciones. Solo tecnología que funciona."
-15. "Cada automatización que instalamos es tiempo que te devolvemos a ti."
-16. "¿Cuántas veces has vuelto a casa solo para comprobar si cerraste con llave?"
-17. "Tu hogar inteligente empieza con una conversación. Escríbenos sin compromiso."
+### Mensajes sobre seguridad y CCTV
+6. "Seguridad que nunca duerme. Cámaras conectadas a tu móvil."
+7. "¿Tu casa sabe que te has ido? La nuestra sí."
+8. "Vigila tu hogar o negocio en tiempo real desde el teléfono."
+
+### Mensajes sobre cerraduras y acceso
+9. "Entra a tu casa sin llave. Solo con el móvil o la huella."
+10. "¿Cuántas veces has vuelto a casa solo para comprobar si cerraste con llave?"
+11. "Decide quién entra y cuándo, desde donde estés."
+
+### Mensajes sobre videoporteros
+12. "Sabe quién llama a tu puerta aunque estés a kilómetros."
+13. "Ve y habla con quien llama, sin levantarte del sofá."
+
+### Mensajes sobre sistemas audiovisuales
+14. "Cine en casa. Sonido en la terraza. Todo bajo control."
+15. "Tu sala de cine privada, instalada por nosotros."
+
+### Mensajes sobre soporte
+16. "Tu hogar inteligente empieza con una conversación. Escríbenos sin compromiso."
+17. "No estás solo con tu instalación. Estamos para lo que necesites."
 
 ---
 
-## Asuntos de email usados
-1. "Tu hogar, más inteligente que nunca"
-2. "Empieza el año con una casa que trabaja para ti"
-3. "Oferta de primavera: iluminación inteligente"
-4. "¿Ya conoces nuestro kit de bienvenida?"
-5. "Ahorra energía sin esfuerzo — te explicamos cómo"
-
----
-
-## Frases de apertura ya usadas
+## Frases de apertura a evitar (por sobreuso)
 - "¿Cansado de...?"
 - "Imagina llegar a casa y que..."
-- "Con RC Domotic, tu casa..."
-- "Controla tu hogar desde..."
-- "¿Sabías que...?"
-- "La domótica ya no es solo para..."
-- "Empieza el año / la semana / el mes con..."
 - "Sin cables. Sin complicaciones."
-- "Instalación en un día."
+- "Instalación en un día." (si no se añade contexto nuevo)
+- "Tu casa trabaja para ti." (saturado como copy principal)
+- "La domótica ya no es solo para casas de lujo."
+- "Empieza el año / la semana / el mes con..."
 
 ---
 
-## Estructuras de copy ya usadas
+## Estructuras de copy ya usadas (variar en nuevas piezas)
 - Pregunta problema → solución → CTA
 - Beneficio directo → cómo funciona → CTA
-- Dato sorpresivo → contexto → CTA
 - Escenario cotidiano → transformación → CTA
 
 ---
 
-## Notas
-- Evitar volver a usar "tu casa trabaja para ti" como copy principal (ya saturado en enero).
-- "Instalación en un día" se ha repetido mucho — usar solo si se añade contexto nuevo.
-- Los mensajes sobre ahorro energético tienen buen rendimiento pero se repiten. Buscar ángulos nuevos.
+## Cómo mantener este archivo actualizado
+Cada vez que se publique una pieza de contenido relevante (post, story destacada, email, copy de campaña), añadir el mensaje principal aquí con una fecha y el canal donde se usó.
+
+Formato sugerido:
+```
+[Fecha] [Canal] — "Texto del mensaje publicado"
+```
