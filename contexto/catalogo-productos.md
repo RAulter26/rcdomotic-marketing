@@ -13,63 +13,50 @@ Este archivo es la fuente de verdad de productos reales que RC Domotic comercial
 
 ## Productos
 
-<!--
-  Copia este bloque para añadir cada producto.
-  Rellena todos los campos con datos reales.
-  No dejes campos vacíos: si no tienes el dato, escribe "Por confirmar".
--->
-
-### Producto 1
-- **Nombre del producto:** [nombre comercial exacto]
-- **Categoría:** [Domótica ORVIBO / Domótica Sonoff / CCTV / Sistemas audiovisuales / Cerraduras digitales / Videoporteros / Soporte y diagnóstico]
-- **Precio real:** [precio confirmado en Appdomotic o fuente comercial validada]
+### CAM-001 — Cámara 360 Interior 2K
+- **Nombre del producto:** Cámara 360 Interior 2K
+- **ID:** CAM-001
+- **Categoría:** CCTV
+- **Precio real:** 880.000 COP
 - **Beneficios clave:**
-  - [beneficio 1]
-  - [beneficio 2]
-  - [beneficio 3]
-- **Disponibilidad:** [En stock / Bajo pedido / No disponible]
-- **Aplica para promoción:** [Sí / No / Pendiente de evaluar]
-- **Notas:** [condiciones especiales, compatibilidades, restricciones o cualquier dato relevante]
-
----
-
-### Producto 2
-- **Nombre del producto:** [nombre comercial exacto]
-- **Categoría:** [Domótica ORVIBO / Domótica Sonoff / CCTV / Sistemas audiovisuales / Cerraduras digitales / Videoporteros / Soporte y diagnóstico]
-- **Precio real:** [precio confirmado en Appdomotic o fuente comercial validada]
-- **Beneficios clave:**
-  - [beneficio 1]
-  - [beneficio 2]
-  - [beneficio 3]
-- **Disponibilidad:** [En stock / Bajo pedido / No disponible]
-- **Aplica para promoción:** [Sí / No / Pendiente de evaluar]
-- **Notas:** [condiciones especiales, compatibilidades, restricciones o cualquier dato relevante]
-
----
-
-### Producto 3
-- **Nombre del producto:** [nombre comercial exacto]
-- **Categoría:** [Domótica ORVIBO / Domótica Sonoff / CCTV / Sistemas audiovisuales / Cerraduras digitales / Videoporteros / Soporte y diagnóstico]
-- **Precio real:** [precio confirmado en Appdomotic o fuente comercial validada]
-- **Beneficios clave:**
-  - [beneficio 1]
-  - [beneficio 2]
-  - [beneficio 3]
-- **Disponibilidad:** [En stock / Bajo pedido / No disponible]
-- **Aplica para promoción:** [Sí / No / Pendiente de evaluar]
-- **Notas:** [condiciones especiales, compatibilidades, restricciones o cualquier dato relevante]
+  - Cámara inalámbrica, sin necesidad de cableado
+  - Visión 360° para cobertura total del espacio
+  - Resolución 2K + 6MP para imagen de alta definición
+  - Conectividad dual 2.4 GHz / 5 GHz
+  - Diseñada para uso interior
+- **Disponibilidad:** Disponible para la venta
+- **Aplica para promoción:** Sí
+- **Notas:**
+  - Unidad de venta: Und
+  - IVA: No incluido
+  - Imagen del producto: /uploads/products/CAM-001_local.jpg
+  - Descripción base: Cámara inalámbrica 360° 2K+6MP 2.4/5GHz interior
 
 ---
 
 <!--
-  Añade más bloques según sea necesario.
-  Mantén el mismo formato para todos los productos.
+  Agrega cada nuevo producto con este bloque.
+  Usa siempre el ID de Appdomotic como identificador.
+  No dejes campos vacíos: si no tienes el dato, escribe "Por validar".
 -->
+
+### [ID] — [Nombre del producto]
+- **Nombre del producto:** [nombre comercial exacto]
+- **ID:** [ID de Appdomotic]
+- **Categoría:** [Domótica ORVIBO / Domótica Sonoff / CCTV / Sistemas audiovisuales / Cerraduras digitales / Videoporteros / Soporte y diagnóstico]
+- **Precio real:** [precio confirmado en Appdomotic]
+- **Beneficios clave:**
+  - [beneficio 1]
+  - [beneficio 2]
+  - [beneficio 3]
+- **Disponibilidad:** Disponible para la venta
+- **Aplica para promoción:** [Sí / No / Por validar]
+- **Notas:** [unidad, IVA, imagen, descripción base u otros datos relevantes]
 
 ---
 
 ## Estado del catálogo
-- **Última actualización:** [fecha]
-- **Actualizado por:** [nombre o rol]
-- **Fuente de precios:** [Appdomotic / acuerdo comercial / otro]
-- **Productos registrados:** 0
+- **Última actualización:** 2026-04-16
+- **Actualizado por:** Appdomotic (datos validados por el equipo comercial)
+- **Fuente de precios:** Appdomotic
+- **Productos registrados:** 1
